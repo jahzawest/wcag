@@ -31,9 +31,9 @@ jobs:
         with:
           repository: _site
           branch: gh-pages
-          commit_user_name: w3cgruntbot
-          commit_user_email: 87540780+w3cgruntbot@users.noreply.github.com
-          commit_author: "w3cgruntbot <87540780+w3cgruntbot@users.noreply.github.com>"
+          commit_user_name: jahzawest@gmail.com           
+          commit_user_email: jahzawest@gmail.com @users.noreply.github.com
+          commit_author: "w3cgruntbot <jahzawest@gmail.com@users.noreply.github.com>"
           commit_message: ":robot: Deploy to GitHub Pages: ${{ github.sha }} from branch ${{ github.ref }}"
           skip_fetch: true
           skip_checkout: true
